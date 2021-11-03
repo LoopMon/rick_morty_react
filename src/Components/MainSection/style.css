@@ -79,5 +79,18 @@
         justify-self: center;
         width: 85%;
     }
+}
 
+@media (max-width: 575px) {
+    .main-container .main-data-container h1 {
+        font-size: 3rem;
+    }
+
+    .main-container .main-data-container p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+    .main-container .main-data-container button {
+        font-size: 14px;
+    }
 }
