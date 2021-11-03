@@ -1,10 +1,10 @@
 import React from 'react'
-
+import { HeaderResponsive } from '../../Components/HeaderResponsive'
 
 export function Personagem() {
     return (
         <div>
-            Page personagem
+            <HeaderResponsive />
         </div>
     )
 }
