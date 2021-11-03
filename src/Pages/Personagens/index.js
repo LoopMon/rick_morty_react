@@ -2,7 +2,7 @@ import React, { useEffect, useState} from 'react'
 import { HiOutlineSearch } from 'react-icons/hi'
 import { HeaderResponsive } from '../../Components/HeaderResponsive'
 import { api } from '../../Api'
-import './styles.css'
+import './style.css'
 
 
 export function Personagens() {
